@@ -19,7 +19,7 @@ module.exports = {
   assetsDir: 'assets', // 静态资源目录 (js, css, img, fonts)
   pages: {
     index: {
-      title: '开源大数据',
+      title: '耍大牌',
       entry: 'src/main.js',
       template: 'public/index.html',
       filename: 'index.html'
